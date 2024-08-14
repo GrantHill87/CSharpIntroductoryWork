@@ -1,0 +1,22 @@
+public class Kata
+{
+  public static string Bmi(double weight, double height)
+  var myBmi = weight / (height * height);
+    
+  if (myBmi <= 18.5) 
+  {
+    return "underweight";
+  }
+  else if (myBmi <= 25.0)
+  {
+    return "normal";
+  }
+  else if (myBmi <= 30.0)
+  {
+    return "overweight";
+  }
+  else
+  {
+    return "Obese";
+  }
+}
