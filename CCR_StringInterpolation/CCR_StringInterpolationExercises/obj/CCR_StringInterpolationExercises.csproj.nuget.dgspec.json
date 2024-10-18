@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\SyntaxSugarExercise\\CCR_StringInterpolationExercises\\CCR_StringInterpolationExercises\\CCR_StringInterpolationExercises.csproj": {}
+    "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\ΩVisual Studio (VS) [Older Works]\\CCR_StringInterpolation\\CCR_StringInterpolationExercises\\CCR_StringInterpolationExercises.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\SyntaxSugarExercise\\CCR_StringInterpolationExercises\\CCR_StringInterpolationExercises\\CCR_StringInterpolationExercises.csproj": {
+    "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\ΩVisual Studio (VS) [Older Works]\\CCR_StringInterpolation\\CCR_StringInterpolationExercises\\CCR_StringInterpolationExercises.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\SyntaxSugarExercise\\CCR_StringInterpolationExercises\\CCR_StringInterpolationExercises\\CCR_StringInterpolationExercises.csproj",
+        "projectUniqueName": "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\ΩVisual Studio (VS) [Older Works]\\CCR_StringInterpolation\\CCR_StringInterpolationExercises\\CCR_StringInterpolationExercises.csproj",
         "projectName": "CCR_StringInterpolationExercises",
-        "projectPath": "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\SyntaxSugarExercise\\CCR_StringInterpolationExercises\\CCR_StringInterpolationExercises\\CCR_StringInterpolationExercises.csproj",
+        "projectPath": "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\ΩVisual Studio (VS) [Older Works]\\CCR_StringInterpolation\\CCR_StringInterpolationExercises\\CCR_StringInterpolationExercises.csproj",
         "packagesPath": "C:\\Users\\Grant\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\SyntaxSugarExercise\\CCR_StringInterpolationExercises\\CCR_StringInterpolationExercises\\obj\\",
+        "outputPath": "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\ΩVisual Studio (VS) [Older Works]\\CCR_StringInterpolation\\CCR_StringInterpolationExercises\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Grant\\AppData\\Roaming\\NuGet\\NuGet.Config",
